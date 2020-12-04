@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@127.0.0.1/codingthunder",
+    "prod_uri": "mysql://root:@127.0.0.1/codingthunder",
+    "fb_url": "https://www.facebook.com/totalitarian.riyadh",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "CodingThunder",
+    "tag_line": "nothing but a simple blog",
+    "gmail_user": "mrriyadh66@gmail.com",
+    "gmail_password": "Riyadh6666",
+    "about_text": "Hi my name is riyadh and I am a learner and I am a good boy",
+    "no_of_post": 2,
+    "admin_user": "root",
+    "admin_password": "root",
+    "upload_location": "/home/riyadh/flask/flaskHarry/static/img"
+  }
+}
