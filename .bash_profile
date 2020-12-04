@@ -1,3 +1,3 @@
-export EMAIL='mrriyadh66@gmail.com'
-export EMAIL_PASS='Riyadh6666'
+export EMAIL=''
+export EMAIL_PASS=''
 

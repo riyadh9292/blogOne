@@ -17,8 +17,8 @@ app.config.update(
     MAIL_SERVER='smtp.gmail.com',
     MAIL_PORT='465',
     MAIL_USE_SSL=True,
-    MAIL_USERNAME=os.environ.get("EMAIL"),
-    MAIL_PASSWORD=os.environ.get("EMAIL_PASS")
+    MAIL_USERNAME=params['gmail_user'],
+    MAIL_PASSWORD=params['gmail_password']
 )
 mail=Mail(app)
 app.secret_key='riyadh'
